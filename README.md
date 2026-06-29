@@ -1,22 +1,20 @@
 <div align="center">
 
-# Hi there, I'm Aishwarya L Sakthivel :)
+# Hi there, I'm Aishwarya L Sakthivel :) 
 
 ### AI • Backend • Full Stack • Computer Science Student
 
 Currently building AI-powered software, backend systems, and real-world applications that solve practical problems.
 
-🎓 B.Tech Computer Science Engineering @ VIT Chennai
-
-💼 AI / LLM Engineering Intern @ Rsquare Technologies
-
-🌍 Chennai, India
+☘︎ B.Tech Computer Science Engineering @ VIT Chennai
+✎ AI / LLM Engineering Intern @ Rsquare Technologies
+✈︎ India
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 𖠋 About Me
 
 I'm a Computer Science student passionate about building software that combines AI, backend engineering, and automation.
 
@@ -24,11 +22,11 @@ I enjoy creating projects that solve real problems—from OCR-powered document i
 
 Currently exploring:
 
-- 🤖 AI & Large Language Models
-- ⚙️ Backend Engineering
-- ☁️ Cloud Deployment
-- 📈 System Design
-- 🚀 Software Engineering
+- ☀︎ AI & Large Language Models
+- ✰ Backend Engineering
+- 𖦹 Cloud Deployment
+- ⟡ System Design
+- 𓆉 Software Engineering
 
 ---
 
@@ -60,9 +58,9 @@ Git • GitHub • Linux • VS Code • Render • Netlify
 
 ---
 
-# 🚀 Featured Projects
+# 𓆝 𓆟 𓆞 𓆝 Featured Projects 𓆝 𓆟 𓆞 𓆝
 
-## 📄 SmartExtract
+## 🃁 SmartExtract
 
 An AI-powered document processing platform that extracts structured information using OCR and Vision LLMs.
 
@@ -72,7 +70,7 @@ Python • FastAPI • OCR • Groq Vision API
 
 ---
 
-## 🗺️ VITMAPS
+## ⌯✈︎ VITMAPS
 
 A full-stack campus navigation platform helping students discover buildings and facilities across campus.
 
@@ -82,7 +80,7 @@ Node.js • MongoDB • HTML • CSS • JavaScript
 
 ---
 
-## 🪐 Exoplanet Data Analysis
+## 𖥔 Exoplanet Data Analysis
 
 Processed NASA TESS light curve datasets to analyze TRAPPIST-1e and calculate planetary habitability metrics.
 
@@ -92,13 +90,13 @@ Python • Scientific Computing
 
 ---
 
-## 💧 Down to Earth
+## ♒︎ Down to Earth
 
 Water Quality Prediction application providing environmental forecasts and visualization.
 
 ---
 
-# 💼 Experience
+# ⌯⌲ Experience
 
 ### AI / LLM Engineering Intern
 
@@ -111,7 +109,7 @@ Water Quality Prediction application providing environmental forecasts and visua
 
 ---
 
-# 🌱 Currently Learning
+# 𖤓 Currently Learning
 
 - System Design
 - Docker
@@ -120,23 +118,23 @@ Water Quality Prediction application providing environmental forecasts and visua
 
 ---
 
-# 📊 GitHub Statistics
+# ⚛︎ GitHub Statistics
 
-<!-- Stats will go here -->
+<!-- Stats will be here -->
 
 ---
 
-# 📫 Connect
+# ✉︎ Connect
 
-📧 Email:
+✎ᝰ Email:
 aishwaryalakshmisakthivel@gmail.com
 
-💼 LinkedIn:
+☕︎ LinkedIn:
 https://linkedin.com/in/YOUR_LINKEDIN
 
-🌐 Portfolio
+🃁 Portfolio
 Coming Soon
 
 ---
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile! :)

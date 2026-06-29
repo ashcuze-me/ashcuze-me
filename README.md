@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Aishwarya L Sakthivel :) 
+# Hi there, I'm Aishwarya LS :) 
 
 ### AI • Backend • Full Stack • Computer Science Student
 
